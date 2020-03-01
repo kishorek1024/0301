@@ -15,7 +15,7 @@ public class QshoreMethods {
 		driver.close();
 	}
 	public void sample(){
-		System.out.println("Sample Methods");
+		System.out.println("Sample Methods updated in GIT");
 	}
 
 }
