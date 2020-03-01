@@ -15,7 +15,7 @@ public class QshoreMethods {
 		driver.close();
 	}
 	public void sample(){
-		System.out.println("Sample");
+		System.out.println("Sample Methods");
 	}
 
 }
